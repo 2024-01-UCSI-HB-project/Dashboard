@@ -1,0 +1,17 @@
+product_id,maker,name,stock,color
+1,Samsung,Samsung_1,100,black
+2,Samsung,Samsung_1,50,red
+3,Samsung,Samsung_1,30,green
+4,Samsung,Samsung_1,20,blue
+5,HP,HP_1,200,black
+6,HP,HP_1,100,red
+7,HP,HP_1,50,green
+8,HP,HP_1,25,blue
+9,LG,LG_1,66,black
+10,LG,LG_1,55,red
+11,LG,LG_1,44,green
+12,LG,LG_1,11,blue
+13,EPSON,EPSON_1,5,black
+14,EPSON,EPSON_1,4,red
+15,EPSON,EPSON_1,10,green
+16,EPSON,EPSON_1,20,blue
